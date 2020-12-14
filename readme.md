@@ -12,8 +12,8 @@
 - Takipçi Sayısı
 - Takip Ettiği Kişi Sayısı
 - Tam İsmi
-- Biografi
-- Biografi Linki
+- Biyografi
+- Biyografi Linki
 
 Ayrıca profil fotoğrafının üstüne basarak kullanıcı'nın profil fotoğrafını indirebilirsiniz.
 
