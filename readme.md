@@ -1,11 +1,11 @@
 # Account Finder
-[![AccountFinder](images/finder.png)](https://finder.yagizyasak.me)
+[![AccountFinder](images/finder.png)]
 
 ## Account Finder Nedir?
-[Account Finder](https://finder.yagizyasak.me), girdiğiniz kullanıcı adı'nın Instagram bilgilerini getiren bir web projesidir.
+Account Finder, girdiğiniz kullanıcı adı'nın Instagram bilgilerini getiren bir web projesidir.
 
 ## Account Finder ile Hangi Bilgilere Erişebilirsiniz?
-[![AccountFinder Back](images/finder_2.png)](https://finder.yagizyasak.me)
+[![AccountFinder Back](images/finder_2.png)]
 
 - Kullanıcı'nın Profil Fotoğrafı
 - Kullanıcı Adı
